@@ -1,9 +1,9 @@
 /**************************************************************
  *  FileName:           styles.js
- *  Description:        Simple Calculator Styles
- *  Copyright:          jovanxua©2017
+ *  Description:        Custom Calculator Number Keyboard component styles
+ *  Copyright:          jovanxua©2018
  *  Original Author:    Jovanni Auxilio
- *  Date Created:       2017-12-19
+ *  Date Created:       2018-01-02
 
  *  Modification History:
         Date              By            Description

@@ -20,31 +20,31 @@ export default {
   },
 
   contHistory:{
-    flex: 0.3,
-    backgroundColor: 'red'
+    flex: 0.35,
+    borderBottomWidth: 1,
+    borderColor: '#000',
   },
 
   contOutput:{
-    flex: 0.2,
-    backgroundColor: 'orange'
+    flex: 0.25,
   },
 
   contButtons:{
-    flex: 0.5,
+    flex: 0.4,
     backgroundColor: '#bdc3c7'
   },
 
   placeHolderOutput: {
     flex: 1,
-    backgroundColor: 'green',
+    backgroundColor: '#fff',
     justifyContent: 'center',
     alignItems: 'flex-end',
-    paddingRight: 30,
-    paddingLeft: 10
+    paddingRight: 15,
+    paddingLeft: 15
   },
 
   txtDefault: {
-    color: '#fff',
+    color: '#000',
     fontFamily: 'Helvetica-Light',
     fontSize: 30
   }
